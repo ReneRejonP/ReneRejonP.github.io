@@ -6,7 +6,7 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: twitter
+    - icon: twitter-x
       text: Twitter
       href: https://x.com/RRejonP
     - icon: linkedin

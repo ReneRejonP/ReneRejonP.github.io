@@ -1,8 +1,0 @@
----
-title: "Diaspora Humanitarians"
-author: "Author"
-date: "2022-10-25"
-categories: [news, code, analysis]
----
-
-Funded by the Australian Research Council; led by Prof. Bina Fernandez. I was responsible for the quantitative phase of the project (i.e., data collection, visualisation and analysis) and collaborated in the qualitative data analysis too.

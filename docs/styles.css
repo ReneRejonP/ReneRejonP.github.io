@@ -1,0 +1,10 @@
+/* css styles */
+#hero-header .about-title {
+  text-transform: none !important;
+}
+
+{style="text-transform:none;"}
+
+.navbar-brand {
+  text-transform: none !important;
+}

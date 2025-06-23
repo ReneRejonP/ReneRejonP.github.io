@@ -1,0 +1,35 @@
+---
+title: ""
+image: 1.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/RRejonP
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/renerejon/
+    - icon: mortarboard-fill
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=JJAq24kAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/ReneRejonP
+    - icon: steam
+      text: Colonist
+      href: https://colonist.io/profile/ReneR
+---
+
+# Dr. René Rejón {style="text-transform:none;"}
+
+I am a Research Fellow (Faculty of Arts) at the University of Melbourne; and an Editorial Member of Social Science Research (Early-Career Review Board).
+
+I currently investigate the impacts of structural injustice on political representation; particularly, how societal discrimination translates over into legislative institutions and affects the representation of marginalized groups. My most recent papers study how skin colour affects the performance and success of legislators, even when controlling for variables such as gender and election type.
+
+Employing Grounded Normative Theory, I use quantitative and qualitative empirical data to inform theoretical discussions. I prefer to use digital methods to collect and analyse data (i.e., web scrapping, text mining and natural language processing).
+
+My teaching experience at the University of Melbourne is primarily on Philosophy and Latin American Studies. Before coming to Australia, I was a Lecturer at the National Autonomous University of Mexico.
+
+There are many things more important to me than work.

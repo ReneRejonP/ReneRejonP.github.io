@@ -1,0 +1,30 @@
+---
+title: "Research"
+description: |
+
+  My current research investigates the impacts of structural injustice on political representation. I use quantitative and qualitative empirical data to demonstrate race and gender-based marginalization in legislative institutions —primarily in Mexico and Latin America. I then use these empirical analyses to inform normative discussions about how to (practically) respond to these injustices. 
+  
+  My main areas of interests are political theory, legislative studies, sociology of race, and how these should inform public policy. However, I enjoy collaborating with scholars working on other topics and disciplines, particularly where my skills in digital tools enhance and buttress their projects. Currently, I’m supporting two large projects:
+  
+listing:
+  - id: packages
+    max-description-length: 800
+    image-height: 250px
+    fields: [title, description]
+    contents: 
+      - pkg_1
+      - pkg_2
+    type: table
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+    
+---
+
+::: {#packages}
+:::
+
+**Interested in collaborating?** Contact me at rene.rejon [at] unimelb.edu.au
+
+
+

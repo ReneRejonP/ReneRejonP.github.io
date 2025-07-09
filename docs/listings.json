@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/pkg_2/index.html",
+      "/projects/pkg_1/index.html"
+    ]
+  },
+  {
+    "listing": "/research/research.html",
+    "items": [
+      "/research/pkg_2/index.html",
+      "/research/pkg_1/index.html"
+    ]
+  }
+]

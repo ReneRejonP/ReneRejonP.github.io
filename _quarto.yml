@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: false
-  title: " <i class='bi bi-house-fill'></i> René Rejón"
+  title: "René Rejón"
   search: false
 
   navbar:

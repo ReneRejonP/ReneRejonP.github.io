@@ -5,6 +5,8 @@ description: |
 
 ## Articles
 
+<strong>**Rejón R.**</strong> and C. Ewig (2025) [“Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?”](https://doi.org/10.1080/01419870.2025.2529416) *Ethnic and Racial Studies.* Online First.
+
 <strong>**Rejón R.**</strong> and S. Bárcena (2025) [“Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico”](https://doi.org/10.1111/ssqu.70054) *Social Science Quarterly.* Online First.
 
 <strong>**Rejón, R.**</strong> (2025) [“Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema”](https://doi.org/10.1177/14687968251319799) *VOLUNTAS.* Online First.

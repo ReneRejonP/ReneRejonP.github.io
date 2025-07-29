@@ -1,0 +1,414 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. René Rejón",
+    "section": "",
+    "text": "Dr. René Rejón\nI am a Research Fellow (Faculty of Arts) at the University of Melbourne; and an Editorial Member of Social Science Research (Early-Career Review Board).\nI currently investigate the impacts of structural injustice on political representation; particularly, how societal discrimination translates over into legislative institutions and affects the representation of marginalized groups. My most recent papers study how skin colour affects the performance and success of legislators, even when controlling for variables such as gender and election type.\nEmploying Grounded Normative Theory, I use quantitative and qualitative empirical data to inform theoretical discussions. I prefer to use digital methods to collect and analyse data (i.e., web scrapping, text mining and natural language processing).\nMy teaching experience at the University of Melbourne is primarily on Philosophy and Latin American Studies. Before coming to Australia, I was a Lecturer at the National Autonomous University of Mexico.\nThere are many things more important to me than work.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Rejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "Diaspora Humanitarians",
+    "section": "",
+    "text": "Funded by the Australian Research Council; led by Prof. Bina Fernandez. I was responsible for the quantitative phase of the project (i.e., data collection, visualisation and analysis) and collaborated in the qualitative data analysis too."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "Right-wing populism and the political feasibility of climate policy",
+    "section": "",
+    "text": "Funded by the Norwegian Research Council; led by Robyn Eckersley (University of Melbourne), Guri Bang (NMBU) and Håkon Sælen (CICERO). I’ve scraped parliamentary data from Australia and the United States to text-mine the speeches of legislators and conduct sentiment and discourse analyses."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nDiaspora Humanitarians\n\n\n\n\n\n\n\nRight-wing populism and the political feasibility of climate policy\n\n\n\n\n\n\n\n\nNo matching items\n\n\nInterested in collaborating? Contact me at rene.rejon [at] unimelb.edu.au\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
+  },
+  {
+    "objectID": "talks/index.html#rejón-r.-2022-avoiding-backlash-narratives-and-strategies-for-anti-racist-activism-in-mexico-ethnicities-2022-236-843-866.",
+    "href": "talks/index.html#rejón-r.-2022-avoiding-backlash-narratives-and-strategies-for-anti-racist-activism-in-mexico-ethnicities-2022-236-843-866.",
+    "title": "Research",
+    "section": "Rejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "text": "Rejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "blog.html#university-of-melbourne",
+    "href": "blog.html#university-of-melbourne",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "blog.html#universidad-nacional-autónoma-de-méxico",
+    "href": "blog.html#universidad-nacional-autónoma-de-méxico",
+    "title": "Teaching",
+    "section": "Universidad Nacional Autónoma de México",
+    "text": "Universidad Nacional Autónoma de México\n\n2017\nLecturer. Global Justice. School of Political and Social Sciences.\n\n\n2013\nTutor. World History I. School of Political and Social Sciences.\nTutor. Literature and Society. School of Political and Social Sciences.\nTutor. World History II. School of Political and Social Sciences.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#articles",
+    "href": "talks/index.html#articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Rejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#reports",
+    "href": "talks/index.html#reports",
+    "title": "Publications",
+    "section": "Reports",
+    "text": "Reports\n\nEl color del Congreso: representación política y tono de piel en México (2024) RacismoMx.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Lebanese Diaspora’s Response to political and economic crises. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Afghanistan Diaspora’s Responses. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Nepalese Diaspora’s responses to the earthquake in 2015. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Myanmar Diaspora’s Responses to the political conflict. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A case study of diaspora responses to the 2022 Hunga Tonga-Hunga Ha’apai volcanic eruption and tsunami. University of Melbourne\nThe underuse of 911 in Mexico (2018) Causa en Común A.C.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "grants/grants.html",
+    "href": "grants/grants.html",
+    "title": "Grants & Funding",
+    "section": "",
+    "text": "Challenge-Based Research Funding Program (ITESM): For the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (PolicyLink):For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Dr. Signe Ravn and Dr. Sarah Ball.",
+    "crumbs": [
+      "Grants & Funding"
+    ]
+  },
+  {
+    "objectID": "grants/grants.html#university-of-melbourne",
+    "href": "grants/grants.html#university-of-melbourne",
+    "title": "Grants",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Grants & Funding"
+    ]
+  },
+  {
+    "objectID": "grants/grants.html#universidad-nacional-autónoma-de-méxico",
+    "href": "grants/grants.html#universidad-nacional-autónoma-de-méxico",
+    "title": "Grants",
+    "section": "Universidad Nacional Autónoma de México",
+    "text": "Universidad Nacional Autónoma de México\n\n2017\nLecturer. Global Justice. School of Political and Social Sciences.\n\n\n2013\nTutor. World History I. School of Political and Social Sciences.\nTutor. Literature and Society. School of Political and Social Sciences.\nTutor. World History II. School of Political and Social Sciences.",
+    "crumbs": [
+      "Grants & Funding"
+    ]
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "blog/blog.html#university-of-melbourne",
+    "href": "blog/blog.html#university-of-melbourne",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "blog/blog.html#universidad-nacional-autónoma-de-méxico",
+    "href": "blog/blog.html#universidad-nacional-autónoma-de-méxico",
+    "title": "Teaching",
+    "section": "Universidad Nacional Autónoma de México",
+    "text": "Universidad Nacional Autónoma de México\n\n2017\nLecturer. Global Justice. School of Political and Social Sciences.\n\n\n2013\nTutor. World History I. School of Political and Social Sciences.\nTutor. Literature and Society. School of Political and Social Sciences.\nTutor. World History II. School of Political and Social Sciences.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "grants/post-with-code/index.html",
+    "href": "grants/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "grants/welcome/index.html",
+    "href": "grants/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "grants/grants.html#grants",
+    "href": "grants/grants.html#grants",
+    "title": "Grants & Funding",
+    "section": "",
+    "text": "Challenge-Based Research Funding Program (ITESM): For the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (PolicyLink):For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Dr. Signe Ravn and Dr. Sarah Ball.",
+    "crumbs": [
+      "Grants & Funding"
+    ]
+  },
+  {
+    "objectID": "grants/grants.html#scholarships",
+    "href": "grants/grants.html#scholarships",
+    "title": "Grants & Funding",
+    "section": "Scholarships",
+    "text": "Scholarships\n\nMelbourne Research Scholarship:full-fees waiver and living stipend to study a PhD at the University of Melbourne\nChevening Award:UK’s Foreign & Commonwealth Office (FCO) global scholarship programme, funds to cover fees and living expenses to study a masters degree in Durham University\nUNAM Foundation – Slim Foundation Scholarship: award to study at SciencesPo, Paris",
+    "crumbs": [
+      "Grants & Funding"
+    ]
+  },
+  {
+    "objectID": "media/media.html",
+    "href": "media/media.html",
+    "title": "Media",
+    "section": "",
+    "text": "The New Mexican President is a Woman (2024) Australian Outlook (Australian Institute of International Affairs).\nMexico’s future president (2024) Pursuit\n12 de Octubre: ¿Nada que celebrar? (2021) Animal Político\nGuía antirracista para el mexicano: ¿héroes? (2021) Animal Político\nGuía antirracista para el mexicano: socializar (2021) Animal Político\nGuía antirracista para el mexicano: colectivizar (2021) Animal Político\nGuía antirracista para el mexicano: compensaciones (2021) Animal Político\nLa amenaza del backlash blanco-mestizo (2021) Animal Político\nBlanco mestizo: compañero de lucha (2020) Animal Político\nWhitexicans: Una definición balanceada (2020) Animal Político\nMexican General Election (2018) The Breakfasters, 3R Radio\nMexicans voted overwhelmingly for change. Will they get it? (2018) Elections Watch-Pursuit\nA political watershed for Mexico? (2018) Elections Watch-Pursuit\n(with Ma. Elena Morera) The abandonment of the Federal Police (2017) El Universal\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Media"
+    ]
+  },
+  {
+    "objectID": "media/media.html#university-of-melbourne",
+    "href": "media/media.html#university-of-melbourne",
+    "title": "Grants",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Media"
+    ]
+  },
+  {
+    "objectID": "media/media.html#universidad-nacional-autónoma-de-méxico",
+    "href": "media/media.html#universidad-nacional-autónoma-de-méxico",
+    "title": "Grants",
+    "section": "Universidad Nacional Autónoma de México",
+    "text": "Universidad Nacional Autónoma de México\n\n2017\nLecturer. Global Justice. School of Political and Social Sciences.\n\n\n2013\nTutor. World History I. School of Political and Social Sciences.\nTutor. Literature and Society. School of Political and Social Sciences.\nTutor. World History II. School of Political and Social Sciences.",
+    "crumbs": [
+      "Media"
+    ]
+  },
+  {
+    "objectID": "media/welcome/index.html",
+    "href": "media/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "media/post-with-code/index.html",
+    "href": "media/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nDiaspora Humanitarians\n\n\n\n\n\n\n\nRight-wing populism and the political feasibility of climate policy\n\n\n\n\n\n\n\n\nNo matching items\n\n\nInterested in collaborating? Contact me at rene.rejon [at] unimelb.edu.au\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Rejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "publications/publications.html#articles",
+    "href": "publications/publications.html#articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Rejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "publications/publications.html#reports",
+    "href": "publications/publications.html#reports",
+    "title": "Publications",
+    "section": "Reports",
+    "text": "Reports\n\nEl color del Congreso: representación política y tono de piel en México (2024) RacismoMx.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Lebanese Diaspora’s Response to political and economic crises. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Afghanistan Diaspora’s Responses. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Nepalese Diaspora’s responses to the earthquake in 2015. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A Case Study of the Myanmar Diaspora’s Responses to the political conflict. University of Melbourne.\nOlliff, L., Rejon, R., Fernandez, B. How do Australia-based migrants help in times of crisis? A case study of diaspora responses to the 2022 Hunga Tonga-Hunga Ha’apai volcanic eruption and tsunami. University of Melbourne\nThe underuse of 911 in Mexico (2018) Causa en Común A.C.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "teaching/teaching.html",
+    "href": "teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/teaching.html#university-of-melbourne",
+    "href": "teaching/teaching.html#university-of-melbourne",
+    "title": "Teaching",
+    "section": "",
+    "text": "Academic Lead. Arts Discovery. Faculty of Arts.\nTeaching Associate. Arts Discovery. Faculty of Arts.\n\n\n\nTutor. Freedom and Equality Across Borders. School of Historical and Philosophical Studies.\n\n\n\nTeaching Associate. Arts Discovery. Faculty of Arts.\nTeaching Associate. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\nTeaching Associate. Latin America in the World. Masters of International Relations. School of Political and Social Sciences.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.\n\n\n\nTutor. Philosophy: The Big Questions. School of Historical and Philosophical Studies.\nTutor. Philosophy: The Great Thinkers. School of Historical and Philosophical Studies.\nTutor. Philosophy, Politics and Economics. School of Historical and Philosophical Studies.\nTutor. Exploring Latin America. BA in Spanish and Latin American Studies. School of Languages and Linguistics.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/teaching.html#universidad-nacional-autónoma-de-méxico",
+    "href": "teaching/teaching.html#universidad-nacional-autónoma-de-méxico",
+    "title": "Teaching",
+    "section": "Universidad Nacional Autónoma de México",
+    "text": "Universidad Nacional Autónoma de México\n\n2017\nLecturer. Global Justice. School of Political and Social Sciences.\n\n\n2013\nTutor. World History I. School of Political and Social Sciences.\nTutor. Literature and Society. School of Political and Social Sciences.\nTutor. World History II. School of Political and Social Sciences.",
+    "crumbs": [
+      "Teaching"
+    ]
+  }
+]

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Dr. René Rejón",
     "section": "",
-    "text": "Dr. René Rejón\nI am a Research Fellow (Faculty of Arts) at the University of Melbourne; and an Editorial Member of Social Science Research (Early-Career Review Board).\nI currently investigate the impacts of structural injustice on political representation; particularly, how societal discrimination translates over into legislative institutions and affects the representation of marginalized groups. My most recent papers study how skin colour affects the performance and success of legislators, even when controlling for variables such as gender and election type.\nEmploying Grounded Normative Theory, I use quantitative and qualitative empirical data to inform theoretical discussions. I prefer to use digital methods to collect and analyse data (i.e., web scrapping, text mining and natural language processing).\nMy teaching experience at the University of Melbourne is primarily on Philosophy and Latin American Studies. Before coming to Australia, I was a Lecturer at the National Autonomous University of Mexico.\nThere are many things more important to me than work.\n\n\n\n Back to top"
+    "text": "Dr. René Rejón\nI am affiliated to the Faculty of Arts of the University of Melbourne; and an Editorial Member of Social Science Research (Early-Career Review Board).\nI currently investigate the impacts of structural injustice on political representation; particularly, how societal discrimination translates over into legislative institutions and affects the representation of marginalised groups. My most recent papers study how skin colour affects the performance and success of legislators, even when controlling for institutional and demographic factors, such as gender, seniority or election type.\nEmploying Grounded Normative Theory, I use quantitative and qualitative empirical data to inform theoretical discussions. I prefer to use computational methods to collect and analyse data (i.e., web scraping, text mining, NLP and fine-tuning LLMs).\nAt present, my research is funded by the Russell Sage Foundation. My work has been published in top journals across various social science subfields, including Political Studies, Environmental Politics, and Ethnic and Racial Studies.\nMy teaching experience at the University of Melbourne is primarily on Philosophy and Latin American Studies. Before coming to Australia, I was a Lecturer at the National Autonomous University of Mexico.\nThere are many things more important to me than work.\n\n\n\n Back to top"
   },
   {
     "objectID": "blog.html",
@@ -79,14 +79,14 @@
     "href": "projects/pkg_2/index.html",
     "title": "Diaspora Humanitarians",
     "section": "",
-    "text": "Funded by the Australian Research Council; led by Prof. Bina Fernandez. I was responsible for the quantitative phase of the project (i.e., data collection, visualisation and analysis) and collaborated in the qualitative data analysis too."
+    "text": "Funded by the Australian Research Council; led by Prof. Bina Fernandez. I was responsible for the quantitative phase of the project (i.e., data collection, visualisation and analysis) and collaborated in the qualitative data analysis too.\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/pkg_1/index.html",
     "href": "projects/pkg_1/index.html",
-    "title": "Right-wing populism and the political feasibility of climate policy",
+    "title": "Towards an Infracategorical Model of Ethnoracial Politics: Skin Tone, Bodily Capital, and Political Representation",
     "section": "",
-    "text": "Funded by the Norwegian Research Council; led by Robyn Eckersley (University of Melbourne), Guri Bang (NMBU) and Håkon Sælen (CICERO). I’ve scraped parliamentary data from Australia and the United States to text-mine the speeches of legislators and conduct sentiment and discourse analyses."
+    "text": "Funded by the Russell Sage Foundation —in collaboration with Prof. Ellis Monk—, this project investigates ethnoracial political representation in the United States. It proposes an Infracategorical Model of Ethnoracial Politics (IMEP) to 1) question the cues of categories, subcategories, and perceived typicality; 2) center the role of the body in inequality and politics and 3)turn analytic attention to operative, yet occluded, principles of social vision and division that tend to lack political salience (e.g., colorism and lookism). Methodologically, the project deploys innovative computational techniques to operationalize political representation.\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/project_2/index.html",
@@ -100,7 +100,7 @@
     "href": "projects/index.html",
     "title": "Research",
     "section": "",
-    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nDiaspora Humanitarians\n\n\n\n\n\n\n\nRight-wing populism and the political feasibility of climate policy\n\n\n\n\n\n\n\n\nNo matching items\n\n\nInterested in collaborating? Contact me at rene.rejon [at] unimelb.edu.au\n\n\n\n\n Back to top",
+    "text": "Title\n\n\n\nDescription\n\n\n\n\n\n\n\n\nDiaspora Humanitarians\n\n\n\n\n\n\n\n\n\nRight-wing populism and the political feasibility of climate policy\n\n\n\n\n\n\n\n\n\nTowards an Infracategorical Model of Ethnoracial Politics: Skin Tone, Bodily Capital, and Political Representation\n\n\n\n\n\n\n\n\n\nWords of Warning\n\n\n\n\n\n\n\n\n\nNo matching items\n\nInterested in collaborating? Contact me at rene.rejon [at] unimelb.edu.au\n\n\n\n\n Back to top",
     "crumbs": [
       "Research"
     ]
@@ -208,7 +208,7 @@
     "href": "grants/grants.html",
     "title": "Grants & Funding",
     "section": "",
-    "text": "Challenge-Based Research Funding Program (ITESM): For the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (PolicyLink):For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Dr. Signe Ravn and Dr. Sarah Ball.",
+    "text": "Core Research Grant (Russell Sage Foundation): Co-PI in the project Towards an Infracategorical Model of Ethnoracial Politics: Skin Tone, Bodily Capital, and Political Representation with Prof. Ellis Monk.\nChallenge-Based Research Funding Program (ITESM): Co-PI in the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (University of Melbourne): For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Signe Ravn and Sarah Ball.",
     "crumbs": [
       "Grants & Funding"
     ]
@@ -282,7 +282,7 @@
     "href": "grants/grants.html#grants",
     "title": "Grants & Funding",
     "section": "",
-    "text": "Challenge-Based Research Funding Program (ITESM): For the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (PolicyLink):For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Dr. Signe Ravn and Dr. Sarah Ball.",
+    "text": "Core Research Grant (Russell Sage Foundation): Co-PI in the project Towards an Infracategorical Model of Ethnoracial Politics: Skin Tone, Bodily Capital, and Political Representation with Prof. Ellis Monk.\nChallenge-Based Research Funding Program (ITESM): Co-PI in the project Emerging Voices: Redefining Civic Culture for Mexico City’s Youth with Dr. Sergio Bárcena.\nPolicy Enhancement Grants 2022 (University of Melbourne): For the project Policy-makers’ view on co-design with young people: Promises and pitfalls with Signe Ravn and Sarah Ball.",
     "crumbs": [
       "Grants & Funding"
     ]
@@ -292,7 +292,7 @@
     "href": "grants/grants.html#scholarships",
     "title": "Grants & Funding",
     "section": "Scholarships",
-    "text": "Scholarships\n\nMelbourne Research Scholarship:full-fees waiver and living stipend to study a PhD at the University of Melbourne\nChevening Award:UK’s Foreign & Commonwealth Office (FCO) global scholarship programme, funds to cover fees and living expenses to study a masters degree in Durham University\nUNAM Foundation – Slim Foundation Scholarship: award to study at SciencesPo, Paris",
+    "text": "Scholarships\n\nMelbourne Research Scholarship (University of Melbourne): Full-fees waiver and living stipend to study a Philosophy Doctorate.\nChevening Award (Foreign & Commonwealth Office - UK): funds to cover fees and living expenses to study a masters degree in Durham University.\nStudy Abroad Grant (UNAM Foundation – Slim Foundation): grant to support academic visit to SciencesPo, Paris.",
     "crumbs": [
       "Grants & Funding"
     ]
@@ -356,7 +356,7 @@
     "href": "publications/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Fernandez, B., Ollif, L., and Rejón R. (2025) “Diaspora humanitarianism: centring transnational relational care practices in crisis response” Global Networks. 25(4): e70038.\nRejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "text": "Eckersley, R. and Rejón R. (2026) “Nationalism, populism and climate scepticism in Australia: comparing radical and conservative, centre-right discourses” Environmental Politics. OnlineFirst.\nFernandez, B., Ollif, L., and Rejón R. (2025) “Diaspora humanitarianism: centring transnational relational care practices in crisis response” Global Networks. 25(4): e70038.\nRejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. 106(4): e70054.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” Ethnicities. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” VOLUNTAS. 36, 191–203.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. 7(3), 251–264.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. 48(8), 1432–1452.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
     "crumbs": [
       "Publications"
     ]
@@ -366,7 +366,7 @@
     "href": "publications/publications.html#articles",
     "title": "Publications",
     "section": "",
-    "text": "Fernandez, B., Ollif, L., and Rejón R. (2025) “Diaspora humanitarianism: centring transnational relational care practices in crisis response” Global Networks. 25(4): e70038.\nRejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. Online First.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” VOLUNTAS. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” Online First.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. Online First.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. Online First.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
+    "text": "Eckersley, R. and Rejón R. (2026) “Nationalism, populism and climate scepticism in Australia: comparing radical and conservative, centre-right discourses” Environmental Politics. OnlineFirst.\nFernandez, B., Ollif, L., and Rejón R. (2025) “Diaspora humanitarianism: centring transnational relational care practices in crisis response” Global Networks. 25(4): e70038.\nRejón R. and S. Bárcena (2025) “The colors of legislative performance: skin tone and effective lawmaking in Mexico” Political Studies. Online First.\nRejón R. and C. Ewig (2025) “Ethnic Quotas and Political Representation in Colombia: Wedged Open or Revolving Doors?” Ethnic and Racial Studies. Online First.\nRejón R. and S. Bárcena (2025) “Quality or complexion? Experience and skin tone as determinants of electoral success in Mexico” Social Science Quarterly. 106(4): e70054.\nRejón, R. (2025) “Automated transcoloration? Skin tone classification algorithms and the prominence of non-epidermic features in the Mexican racial schema” Ethnicities. Online First.\nRejón, R., Fernandez, B., Oliff, L., and D. Varghese (2025) “Diaspora Humanitarians: how diaspora communities respond to humanitarian crises” VOLUNTAS. 36, 191–203.\nCorbett, E., McGann, M., Considine, M. and Rejón, R. (2025) “’Trauma-informed practice in welfare-to-work and employment services: A scoping review” Australian Journal of Social Issues. Online First.\nBall, Sarah and R. Rejón (2024) “Unlocking policy success: is co-design the key to achieving effective policy outcomes?” Policy Design and Practice. 7(3), 251–264.\nRejon, R. (2024) “Interest convergence in the land of the cosmic race: Mexican anti-racism and the motivation question” Ethnic and Racial Studies. 48(8), 1432–1452.\nRejón, R. (2024) “The colours of lawmaking: Ethno-racial descriptive representation in Mexico”. Ethnic and Racial Studies (2023) 47(4):785-808.\nLi, Dongmei, Rejón, R., et al. (2024) “Internationalisation of the Curriculum in an Arts Foundation Subject” Journal of University Teaching & Learning Practice (2024) 21(4): 1-21\nRejón, R. and Chenlong Ma (2023) “Classification algorithm for skin color (CASCo): A new tool to measure skin color in social research” Social Science Quarterly 104: 168– 179.\nRejón, R. (2022) “Avoiding backlash: Narratives and strategies for anti-racist activism in Mexico”, Ethnicities (2022) 23(6), 843-866.",
     "crumbs": [
       "Publications"
     ]
@@ -410,5 +410,19 @@
     "crumbs": [
       "Teaching"
     ]
+  },
+  {
+    "objectID": "projects/pkg_3/index.html",
+    "href": "projects/pkg_3/index.html",
+    "title": "Right-wing populism and the political feasibility of climate policy",
+    "section": "",
+    "text": "Funded by the Norwegian Research Council; led by Robyn Eckersley (University of Melbourne), Guri Bang (NMBU) and Håkon Sælen (CICERO). I’ve scraped parliamentary data from Australia and the United States to text-mine the speeches of legislators and conduct sentiment and discourse analyses.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/pkg_4/index.html",
+    "href": "projects/pkg_4/index.html",
+    "title": "Words of Warning",
+    "section": "",
+    "text": "Led by Seraphine Maerz (University of Melbourne) this project -funded by the Australian Research Council (ARC)- aims to investigate the relationship between illiberal public discourse and democratic decline by analysing large amounts of political speeches from dozens of democracies around the world. The project employs an innovative combination of quantitative methods and specifically fine-tuned Large Language Models to develop an early-warning system for democratic backsliding.\n\n\n\n Back to top"
   }
 ]

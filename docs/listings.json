@@ -14,7 +14,9 @@
     "listing": "/projects/index.html",
     "items": [
       "/projects/pkg_2/index.html",
-      "/projects/pkg_1/index.html"
+      "/projects/pkg_3/index.html",
+      "/projects/pkg_1/index.html",
+      "/projects/pkg_4/index.html"
     ]
   },
   {

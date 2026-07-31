@@ -1,0 +1,9 @@
+---
+title: "Right-wing populism and the political feasibility of climate policy"
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+Funded by the Norwegian Research Council; led by Robyn Eckersley (University of Melbourne), Guri Bang (NMBU) and Håkon Sælen
+(CICERO). I’ve scraped parliamentary data from Australia and the United States to text-mine the speeches of legislators and conduct sentiment and discourse analyses.

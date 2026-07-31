@@ -1,0 +1,9 @@
+---
+title: "Towards an Infracategorical Model of Ethnoracial Politics: Skin Tone, Bodily Capital, and Political Representation"
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+Funded by the [Russell Sage Foundation](https://www.russellsage.org/research/grants/towards-infracategorical-model-ethnoracial-politics-skin-tone-bodily-capital-and) —in collaboration with [Prof. Ellis Monk](https://www.ellismonk.com/)—, this project investigates ethnoracial political representation in the United States. It proposes an *Infracategorical Model of Ethnoracial Politics* (IMEP) to 1) question the cues of categories, subcategories, and perceived typicality; 2) center the role of the body in inequality and politics and 3)turn analytic attention to operative, yet occluded, principles of social vision and division that tend to lack political salience (e.g., colorism and lookism). Methodologically, the project deploys innovative computational techniques to operationalize political representation.
+

@@ -1,0 +1,10 @@
+---
+title: "Emerging Voices: Redefining Civic Culture for Mexico City's Youth"
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+Funded by ITESM's [Challenge-Based Research Funding Program](https://tec.mx/es/investigacion/challenge-based-research-funding-program?srsltid=AfmBOoriyxphvSotSIzcsQbDR7k7tY8AAFjq9pY_pslJP_QqP4k346rJ) in collaboration with Mexico City's Electoral Institute, this project (led by [Sergio Bárcena](https://www.linkedin.com/in/sergio-a-b%C3%A1rcena-86063a48/)), studies how digital technologies facilitate the way youth from underserved areas in Mexico engage with civic life and politics.
+
+

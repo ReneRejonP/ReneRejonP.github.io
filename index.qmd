@@ -1,0 +1,35 @@
+---
+title: ""
+image: 3.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/RRejonP
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/renerejon/
+    - icon: mortarboard-fill
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=JJAq24kAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/ReneRejonP
+    - icon: steam
+      text: Colonist
+      href: https://colonist.io/profile/ReneR
+---
+
+# Dr. René Rejón {style="text-transform:none;"}
+
+I am an Early Career Researcher investigating the impacts of structural injustice on political representation, and the ways in which democratic institutions should be reformed to effectively increase both descriptive and substantive representation. Employing Grounded Normative Theory and leveraging cutting-edge computational methods (i.e., web scraping, text mining, NLP and fine-tuning LLMs), I employ quantitative and qualitative empirical data to inform theoretical discussions.
+
+My [work](https://renerejonp.github.io/publications/publications.html) has been published in top journals across various social science subfields, including *Political Studies*, *Environmental Politics*, and *Ethnic and Racial Studies*. My current [projects]() are funded by the [Russell Sage Foundation](https://www.russellsage.org/research/grants/towards-infracategorical-model-ethnoracial-politics-skin-tone-bodily-capital-and) and the [Fighting Harmful Online Communication Hallmark Research Initiative](https://research.unimelb.edu.au/strengths/initiatives/interdisciplinary/hallmark/fighting-harmful-online-communication) at the University of Melbourne.
+
+My teaching experience at the University of Melbourne is primarily on Philosophy and Latin American Studies. Before coming to Australia, I was a Lecturer at the National Autonomous University of Mexico.
+
+I am an [Editorial Member](https://www.sciencedirect.com/journal/social-science-research/about/editorial-board) of *Social Science Research*, I serve as *Outreach and Impact Lead* at [QuantLab](https://quantilab.github.io/), and I am [affiliated](https://findanexpert.unimelb.edu.au/profile/836491-rene-rejon#:~:text=Ren%C3%A9%20Rej%C3%B3n%20is%20an%20Early,both%20descriptive%20and%20substantive%20representation.) to the Faculty of Arts of the University of Melbourne.
+
+There are many things more important to me than work.

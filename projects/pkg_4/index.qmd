@@ -1,0 +1,8 @@
+---
+title: "Words of Warning"
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+Led by [Seraphine Maerz](https://seraphinem.github.io/) (University of Melbourne) this project -funded by the Australian Research Council (ARC)- aims to investigate the relationship between illiberal public discourse and democratic decline by analysing large amounts of political speeches from dozens of democracies around the world. The project employs an innovative combination of quantitative methods and specifically fine-tuned Large Language Models to develop an early-warning system for democratic backsliding.

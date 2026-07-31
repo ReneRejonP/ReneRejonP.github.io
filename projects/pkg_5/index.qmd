@@ -1,0 +1,10 @@
+---
+title: "Illiberal Language Diffusion Index (ILDI) "
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+Funded by the University of Melbourne's [Fighting Harmful Online Communication Hallmark Research Initiative](https://research.unimelb.edu.au/strengths/initiatives/interdisciplinary/hallmark/fighting-harmful-online-communication) and co-led by [Seraphine Maerz](https://seraphinem.github.io/), this project aims to empirically operationalise and measure *illiberal language diffusion*, a key component of Maerz’s (2026) normalisation theory that currently stands on narrow empirical grounds. The project will generate a new Illiberal Language Diffusion Index (ILDI) to probe the mechanisms through which illiberal language diffusion is causally linked to autocratisation, if at all.
+
+
